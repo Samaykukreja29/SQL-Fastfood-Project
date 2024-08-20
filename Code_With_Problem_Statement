@@ -1,3 +1,8 @@
+-- INTRO
+-- Here I've created a project to solve a some problems for a fast food buisness. Some advanced topics that I've used are shared below :
+-- CTE, Subquerries, Window Function, Joins, Aggregate Functions, etc.
+
+
 select * from order_details LIMIT 10
 SELECT * FROM ORDERS LIMIT 10
 SELECT * FROM PIZZA_TYPES LIMIT 10
